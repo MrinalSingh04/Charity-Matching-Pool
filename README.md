@@ -1,6 +1,6 @@
 # Charity Matching Pool
 
-## 📌 What is this?
+## 📌 What is this? 
 
 The **Charity Matching Pool** is a simple Ethereum smart contract where:
 
